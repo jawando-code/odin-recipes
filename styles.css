@@ -1,0 +1,16 @@
+/* styles.css */
+
+*{
+	background-color:black;
+	color:white;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+	font-size:large;
+    }
+.paragraph{
+width:20%;
+text-align:right;
+font-size:30px;
+}
